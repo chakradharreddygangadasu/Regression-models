@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 20 16:56:00 2020
-
-@author: gchak
-"""
+""" Here we got two variables, experiance of experiance and salary. Years of experiance is independent variable and salary is our dependnt variable"""
 
 #importing libraries
 import pandas as pd
